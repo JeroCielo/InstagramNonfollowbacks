@@ -10,6 +10,8 @@ fix that if you can
 ******************************************************************************************************
 For different versions, there are different lines of code that we are supposed to use and I programmed this with the most recent updates. It is not completely done since it does not work on my computer but it will for some of you.
 
+After I am finished with the scrolling part, I will make this project bigger and into a website or a module so all people have access
+
 run "python3 instagramUnfollower.py" on VScode to run it and fix any errors if you can!
 
 # HAVE FUN!
