@@ -13,5 +13,6 @@ For different versions, there are different lines of code that we are supposed t
 After I am finished with the scrolling part, I will make this project bigger and into a website or a module so all people have access
 
 run "python3 instagramUnfollower.py" on VScode to run it and fix any errors if you can!
+also consider using VPN since if you run it too many times, you will get banned from your instagram account (I know from personal experience)
 
 # HAVE FUN!
